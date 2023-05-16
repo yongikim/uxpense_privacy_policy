@@ -1,6 +1,4 @@
----
-title: uxpense privacy policy
----
+# uxpense privacy policy
 
 **Privacy Policy**
 
