@@ -1,3 +1,7 @@
+---
+title: uxpense privacy policy
+---
+
 **Privacy Policy**
 
 YKtools built the uxpense app as a Free app. This SERVICE is provided by YKtools at no cost and is intended for use as is.
